@@ -13,7 +13,7 @@ This campaign uses 11DLittlewood's custom levels mod, which can be downloaded fr
 # Installation Instructions
 1. Download and load the Custom Level mod using the instructions on its GitHub page.
 2. Download the latest release of Storyteller: The Lost Chapters
-3. Place the levels (specifically the text files) of the chapter you want to play into your custom_levels folder
+3. The zip file contains eight folders corresponding to each chapter.  To play a chapter, open its folder and place its levels (specifically the text files) into your custom_levels folder
 4. Repeat Step 3 for each chapter
 
 # Important Notes
