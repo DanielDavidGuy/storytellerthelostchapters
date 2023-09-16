@@ -19,6 +19,7 @@ This campaign uses 11DLittlewood's custom levels mod, which can be downloaded fr
 # Important Notes
 - Although the level editor works mechanics-wise, there are many missing art assets for characters who were never intended to be in certain scenes.  I tried to avoid these cases whenever possible, but some levels do have missing assets, such as blue squares for thought bubbles, no revive animation, no beheaded animation, issues when talking to the Professor, etc.  None of these should interfere with gameplay, but some interactions may just _look_ a little odd.
 - Each chapter's levels must be loaded separately.  You cannot load more than seven levels at a time, so be sure that, when you've finished a chapter, you remove its level files from the custom_levels folder before you add new ones.
-- Please refrain from looking into a level's text file.  Though not always, it can occasionally give away part of a level's solution. 
+- Due to the nature of the mod, custom levels can only be accessed after beating the main campaign.  They will appear on the page after The Ceremony.
+- Please refrain from looking into a level's text file.  Though not always, it can occasionally give away part of a level's solution.
 - The level LB-2 has subgoals, but because of a rendering error, the text gets hidden behind the top two panels.  You can see them if you move the panels out of the way.
 - If you find any bugs with goals (a goal isn't being fulfilled when it should be, a goal is being triggered without being fulfilled) or have any other general feedback, let me know through Steam comments or by contacting me @DanielDavidGuy on discord.
