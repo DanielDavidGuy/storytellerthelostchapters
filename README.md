@@ -4,7 +4,7 @@ Are you craving more Storyteller levels?  Seeking a puzzling challenge?  Want to
 This campaign uses 11DLittlewood's custom levels mod, which can be downloaded from the designated link below.  If you like the campaign or are having any problems, you can leave a comment or get in touch with me over on the Storyteller Custom Levels Discord server.
 
 # Links
-[Latest Release](https://github.com/DanielDavidGuy/storytellerthelostchapters/files/12641689/The.Lost.Chapters.zip)
+[Latest Release](https://github.com/DanielDavidGuy/storytellerthelostchapters/files/12643275/The.Lost.Chapter.v1.0.1.zip)
   
 [Custom Levels Mod Download](https://github.com/plokmijnuhby/StorytellerCustomLevels)
   
