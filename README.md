@@ -1,5 +1,5 @@
 # Storyteller: The Lost Chapters: A Custom Storyteller Campaign
-Are you craving more Storyteller levels?  Seeking a puzzling challenge?  Want to see the Isobel behead the Knight?  Fret no longer, I have created the Storyteller's first custom campaign!  This collection includes 10 chapters, totaling 66 original levels that push Storyteller's mechanics to their limit.  Try it for yourself!
+Are you craving more Storyteller levels?  Seeking a puzzling challenge?  Want to see the Isobel behead the Knight?  Fret no longer, I have created the Storyteller's first custom campaign!  This collection includes 10 chapters, totaling 63 original levels that push Storyteller's mechanics to their limit.  Try it for yourself!
 
 This campaign uses 11DLittlewood's custom levels mod, which can be downloaded from the designated link below.  If you like the campaign or are having any problems, you can leave a comment or get in touch with me over on the Storyteller Custom Levels Discord server.
 
