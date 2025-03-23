@@ -13,7 +13,7 @@ This campaign uses 11DLittlewood's custom levels mod, which can be downloaded fr
 # Installation Instructions
 1. Download and load the Custom Level mod using the instructions on its GitHub page.
 2. Download the latest release of Storyteller: The Lost Chapters
-3. The zip file contains eight folders corresponding to each chapter.  Place all eight of these folders into the custom_levels folder.
+3. The zip file contains ten folders corresponding to each chapter.  Place all eight of these folders into the custom_levels folder.
 
 # Important Notes
 - Although the level editor works mechanics-wise, there are many missing art assets for characters who were never intended to be in certain scenes.  I tried to avoid these cases whenever possible, but some levels do have missing assets, such as blue squares for thought bubbles, no revive animation, no beheaded animation, issues when talking to the Professor, etc.  None of these should interfere with gameplay, but some interactions may just _look_ a little odd.
